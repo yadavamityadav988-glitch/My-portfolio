@@ -1,0 +1,34 @@
+.education{
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 60px;
+    flex-wrap: wrap;
+}
+
+.education-img img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.education-content{
+    max-width: 600px;
+}
+
+.education-content h2{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.education-content h3{
+    margin-bottom: 15px;
+}
+
+.education-content p{
+    line-height: 1.8;
+}
