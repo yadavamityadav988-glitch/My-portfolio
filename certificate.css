@@ -7,7 +7,7 @@
     justify-content: center;
     /* gap: 25px; */
     /* padding: 50px; */
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 .img1 h1{
     padding-top: 25px;
@@ -48,7 +48,7 @@
     justify-content: center;
     /* gap: 25px; */
     /* padding: 50px; */
-    flex-wrap: wrap;
+   
 }
 .img2 img{
     width: 100%;
